@@ -19,6 +19,10 @@
   margin: 5px 10px;
 }
 
+.contact-title {
+  margin-bottom: 30px;
+}
+
 @media (max-width: 768px) {
   .section-follow .fa-4x {
     font-size: 36px;
