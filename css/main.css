@@ -14,3 +14,13 @@
   width: 100%;
   text-align: center;
 }
+
+.section-follow .fa-4x {
+  margin: 5px 10px;
+}
+
+@media (max-width: 768px) {
+  .section-follow .fa-4x {
+    font-size: 36px;
+  }
+}
